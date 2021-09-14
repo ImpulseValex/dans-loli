@@ -1,0 +1,1 @@
+Workere: node ./src/bot.js
